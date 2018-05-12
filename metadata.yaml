@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40098'
     url: http://www.gutenberg.org/2009/agents/40098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39590#Some-Account-of-Llangollen-and-its-Vicinity
 gutenberg_issued: '2012-05-01'
 gutenberg_type: Text
 identifiers:
